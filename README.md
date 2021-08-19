@@ -10,7 +10,8 @@
 
 ## Major Appliance Reviews SQL Results:
 ### Reviews Table:
-![Reviews_1](./level-1/images/reviews_sql_1.png)
+<!-- ![Reviews_1](./level-1/images/reviews_sql_1.png) -->
+<img src="./level-1/images/reviews_sql_1.png" alt="Reviews_1" width="200"/>
 
 ### Products Table:
 ![Products_1](./level-1/images/products_sql_1.png)
