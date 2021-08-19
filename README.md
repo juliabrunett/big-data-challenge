@@ -10,26 +10,25 @@
 
 ## Major Appliance Reviews SQL Results:
 ### Reviews Table:
-<!-- ![Reviews_1](./level-1/images/reviews_sql_1.png) -->
 <img src="./level-1/images/reviews_sql_1.png" alt="Reviews_1" width="600"/>
 
 ### Products Table:
-![Products_1](./level-1/images/products_sql_1.png)
+<img src="./level-1/images/products_sql_1.png" alt="Products_1" width="600"/>
 
 ### Customers Table:
-![Customers_1](./level-1/images/customers_sql_1.png)
+<img src="./level-1/images/customers_sql_1.png" alt="Customers_1" width="600"/>
 
 <hr>
 
 ## Book Reviews SQL Results:
 ### Reviews Table:
-![Reviews_2](./level-1/images/reviews_sql_2.png)
+<img src="./level-1/images/reviews_sql_2.png" alt="Reviews_2" width="600"/>
 
 ### Products Table:
-![Products_2](./level-1/images/products_sql_2.png)
+<img src="./level-1/images/products_sql_2.png" alt="Products_2" width="600"/>
 
 ### Customers Table:
-![Customers_2](./level-1/images/customers_sql_2.png)
+<img src="./level-1/images/customers_sql_2.png" alt="Customers_2" width="600"/>
 
 ### Extra Query Results on Number of Reviews for each Product:
-![Query_2](./level-1/images/query_sql_2)
+<img src="./level-1/images/query_sql_2.png" alt="Query_2" width="600"/>
