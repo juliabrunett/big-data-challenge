@@ -10,10 +10,13 @@ Big Data Homework: This project focused on practicing the ETL (Extract, Transfor
 
 ## Major Appliance Reviews SQL Results:
 ### Reviews Table:
+![Reviews_1](Level-1/images/reviews_sql_1)
 
 ### Products Table:
+![Products_1](Level-1/images/products_sql_1)
 
 ### Customers Table:
+![Customers_1](Level-1/images/customers_sql_1)
 
 <hr>
 
@@ -23,3 +26,5 @@ Big Data Homework: This project focused on practicing the ETL (Extract, Transfor
 ### Products Table:
 
 ### Customers Table:
+
+### Extra Query Results on Number of Reviews for each Product:
