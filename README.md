@@ -22,9 +22,13 @@ Big Data Homework: This project focused on practicing the ETL (Extract, Transfor
 
 ## Book Reviews SQL Results:
 ### Reviews Table:
+![Reviews_2](./level-1/images/reviews_sql_2)
 
 ### Products Table:
+![Products_2](./level-1/images/products_sql_2)
 
 ### Customers Table:
+![Customers_2](./level-1/images/customers_sql_2)
 
 ### Extra Query Results on Number of Reviews for each Product:
+![Query_2](./level-1/images/query_sql_2)
